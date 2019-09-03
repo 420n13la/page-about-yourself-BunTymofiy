@@ -10,18 +10,21 @@ h1 {
   color:OLIVE;
   text-align: center;
   font-family: 'Manjari', sans-serif;
+  border: 5px solid blue; 
 }
 
 h2 {
   color: PURPLE;
   text-align: left;
+  border: 5px dotted orange;
 }
 
 p {
   font-size: 20px;
+  border: 4px solid yellow;
 }
 img{
-	width :400px;
-	height: 400px
+	width :200px;
+	height:200px;
 } 
 </style>
